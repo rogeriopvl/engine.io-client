@@ -1,6 +1,6 @@
 {
   "name": "engine.io-client-bower",
-  "version": "0.7.12",
+  "version": "1.0.6",
   "description": "This is the client for Engine, the implementation of transport-based cross-browser/cross-device bi-directional communication layer for Socket.IO.",
   "main": "engine.io.js",
   "dependencies": {},
