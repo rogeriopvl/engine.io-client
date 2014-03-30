@@ -5,12 +5,12 @@
   "main": "engine.io.js",
   "dependencies": {},
   "ignore": [
-      'Makefile',
-      'component.json',
-      'package.json',
-      'index.js',
-      'lib/',
-      'test/',
-      'support/'
+      "Makefile",
+      "component.json",
+      "package.json",
+      "index.js",
+      "lib/",
+      "test/",
+      "support/"
   ]
 }
